@@ -107,7 +107,7 @@
 		"parameters": {
 			"InvoiceID": {
 				"type": "float",
-				"defaultValue": 0
+				"defaultValue": 10
 			}
 		},
 		"annotations": []
