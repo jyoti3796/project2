@@ -49,7 +49,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText6",
+						"referenceName": "bigbazar",
 						"type": "DatasetReference"
 					}
 				],
