@@ -62,8 +62,9 @@
 			}
 		],
 		"parameters": {
-			"salse": {
-				"type": "string"
+			"InvoiceID": {
+				"type": "float",
+				"defaultValue": 0
 			}
 		},
 		"annotations": []
