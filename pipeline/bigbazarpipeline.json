@@ -61,6 +61,11 @@
 				]
 			}
 		],
+		"parameters": {
+			"salse": {
+				"type": "string"
+			}
+		},
 		"annotations": []
 	}
 }
