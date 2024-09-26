@@ -55,7 +55,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "errormsg",
+						"referenceName": "DelimitedText7",
 						"type": "DatasetReference"
 					}
 				]
